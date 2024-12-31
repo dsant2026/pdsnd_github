@@ -2,8 +2,14 @@ import time
 import pandas as pd
 import numpy as np
 
+<<<<<<< HEAD
 #This line to add the code for documentaion branch.
 
+||||||| fa3867c
+=======
+#Added this line for the refactoring branch:w
+
+>>>>>>> refactoring
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
