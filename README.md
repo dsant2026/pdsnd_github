@@ -14,3 +14,6 @@ We used multiple datasets to analyse the data of different location
 
 ### Credits
 All credits to Udacity program which helped us a lot to learn the technologies with realworld examples.
+
+### updated the comments for documentation branch
+This is to add the new branch to project.
